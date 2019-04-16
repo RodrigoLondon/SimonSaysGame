@@ -7,27 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		493DF06F22609AB400F23887 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493DF06E22609AB400F23887 /* AppDelegate.swift */; };
-		493DF07122609AB400F23887 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493DF07022609AB400F23887 /* ViewController.swift */; };
-		493DF07422609AB400F23887 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 493DF07222609AB400F23887 /* Main.storyboard */; };
-		493DF07622609AB700F23887 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 493DF07522609AB700F23887 /* Assets.xcassets */; };
-		493DF07922609AB700F23887 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 493DF07722609AB700F23887 /* LaunchScreen.storyboard */; };
-		493DF09F2264D1AD00F23887 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493DF09E2264D1AD00F23887 /* ViewController1.swift */; };
+		493DF08D2263644B00F23887 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493DF08C2263644B00F23887 /* AppDelegate.swift */; };
+		493DF08F2263644B00F23887 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493DF08E2263644B00F23887 /* ViewController.swift */; };
+		493DF0922263644B00F23887 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 493DF0902263644B00F23887 /* Main.storyboard */; };
+		493DF0942263644C00F23887 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 493DF0932263644C00F23887 /* Assets.xcassets */; };
+		493DF0972263644C00F23887 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 493DF0952263644C00F23887 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		493DF06B22609AB400F23887 /* SimonSaysGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimonSaysGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		493DF06E22609AB400F23887 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		493DF07022609AB400F23887 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		493DF07322609AB400F23887 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		493DF07522609AB700F23887 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		493DF07822609AB700F23887 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		493DF07A22609AB700F23887 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		493DF09E2264D1AD00F23887 /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
+		493DF0892263644B00F23887 /* ProgrammaticConstrains.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProgrammaticConstrains.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		493DF08C2263644B00F23887 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		493DF08E2263644B00F23887 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		493DF0912263644B00F23887 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		493DF0932263644C00F23887 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		493DF0962263644C00F23887 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		493DF0982263644C00F23887 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		493DF06822609AB400F23887 /* Frameworks */ = {
+		493DF0862263644B00F23887 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,80 +35,71 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		493DF06222609AB400F23887 = {
+		493DF0802263644B00F23887 = {
 			isa = PBXGroup;
 			children = (
-				493DF06D22609AB400F23887 /* SimonSaysGame */,
-				493DF06C22609AB400F23887 /* Products */,
+				493DF08B2263644B00F23887 /* ProgrammaticConstrains */,
+				493DF08A2263644B00F23887 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		493DF06C22609AB400F23887 /* Products */ = {
+		493DF08A2263644B00F23887 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				493DF06B22609AB400F23887 /* SimonSaysGame.app */,
+				493DF0892263644B00F23887 /* ProgrammaticConstrains.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		493DF06D22609AB400F23887 /* SimonSaysGame */ = {
+		493DF08B2263644B00F23887 /* ProgrammaticConstrains */ = {
 			isa = PBXGroup;
 			children = (
-				493DF06E22609AB400F23887 /* AppDelegate.swift */,
-				493DF09E2264D1AD00F23887 /* ViewController1.swift */,
-				493DF07022609AB400F23887 /* ViewController.swift */,
-				493DF07222609AB400F23887 /* Main.storyboard */,
-				493DF0A02264D1E700F23887 /* Resources */,
+				493DF08C2263644B00F23887 /* AppDelegate.swift */,
+				493DF08E2263644B00F23887 /* ViewController.swift */,
+				493DF0902263644B00F23887 /* Main.storyboard */,
+				493DF0932263644C00F23887 /* Assets.xcassets */,
+				493DF0952263644C00F23887 /* LaunchScreen.storyboard */,
+				493DF0982263644C00F23887 /* Info.plist */,
 			);
-			path = SimonSaysGame;
-			sourceTree = "<group>";
-		};
-		493DF0A02264D1E700F23887 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				493DF07522609AB700F23887 /* Assets.xcassets */,
-				493DF07722609AB700F23887 /* LaunchScreen.storyboard */,
-				493DF07A22609AB700F23887 /* Info.plist */,
-			);
-			path = Resources;
+			path = ProgrammaticConstrains;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		493DF06A22609AB400F23887 /* SimonSaysGame */ = {
+		493DF0882263644B00F23887 /* ProgrammaticConstrains */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 493DF07D22609AB700F23887 /* Build configuration list for PBXNativeTarget "SimonSaysGame" */;
+			buildConfigurationList = 493DF09B2263644C00F23887 /* Build configuration list for PBXNativeTarget "ProgrammaticConstrains" */;
 			buildPhases = (
-				493DF06722609AB400F23887 /* Sources */,
-				493DF06822609AB400F23887 /* Frameworks */,
-				493DF06922609AB400F23887 /* Resources */,
+				493DF0852263644B00F23887 /* Sources */,
+				493DF0862263644B00F23887 /* Frameworks */,
+				493DF0872263644B00F23887 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = SimonSaysGame;
-			productName = SimonSaysGame;
-			productReference = 493DF06B22609AB400F23887 /* SimonSaysGame.app */;
+			name = ProgrammaticConstrains;
+			productName = ProgrammaticConstrains;
+			productReference = 493DF0892263644B00F23887 /* ProgrammaticConstrains.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		493DF06322609AB400F23887 /* Project object */ = {
+		493DF0812263644B00F23887 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1000;
 				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = Rodrigo;
 				TargetAttributes = {
-					493DF06A22609AB400F23887 = {
+					493DF0882263644B00F23887 = {
 						CreatedOnToolsVersion = 10.0;
 					};
 				};
 			};
-			buildConfigurationList = 493DF06622609AB400F23887 /* Build configuration list for PBXProject "SimonSaysGame" */;
+			buildConfigurationList = 493DF0842263644B00F23887 /* Build configuration list for PBXProject "ProgrammaticConstrains" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,55 +107,54 @@
 				en,
 				Base,
 			);
-			mainGroup = 493DF06222609AB400F23887;
-			productRefGroup = 493DF06C22609AB400F23887 /* Products */;
+			mainGroup = 493DF0802263644B00F23887;
+			productRefGroup = 493DF08A2263644B00F23887 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				493DF06A22609AB400F23887 /* SimonSaysGame */,
+				493DF0882263644B00F23887 /* ProgrammaticConstrains */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		493DF06922609AB400F23887 /* Resources */ = {
+		493DF0872263644B00F23887 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				493DF07922609AB700F23887 /* LaunchScreen.storyboard in Resources */,
-				493DF07622609AB700F23887 /* Assets.xcassets in Resources */,
-				493DF07422609AB400F23887 /* Main.storyboard in Resources */,
+				493DF0972263644C00F23887 /* LaunchScreen.storyboard in Resources */,
+				493DF0942263644C00F23887 /* Assets.xcassets in Resources */,
+				493DF0922263644B00F23887 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		493DF06722609AB400F23887 /* Sources */ = {
+		493DF0852263644B00F23887 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				493DF09F2264D1AD00F23887 /* ViewController1.swift in Sources */,
-				493DF07122609AB400F23887 /* ViewController.swift in Sources */,
-				493DF06F22609AB400F23887 /* AppDelegate.swift in Sources */,
+				493DF08F2263644B00F23887 /* ViewController.swift in Sources */,
+				493DF08D2263644B00F23887 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		493DF07222609AB400F23887 /* Main.storyboard */ = {
+		493DF0902263644B00F23887 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				493DF07322609AB400F23887 /* Base */,
+				493DF0912263644B00F23887 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		493DF07722609AB700F23887 /* LaunchScreen.storyboard */ = {
+		493DF0952263644C00F23887 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				493DF07822609AB700F23887 /* Base */,
+				493DF0962263644C00F23887 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -174,7 +162,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		493DF07B22609AB700F23887 /* Debug */ = {
+		493DF0992263644C00F23887 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -235,7 +223,7 @@
 			};
 			name = Debug;
 		};
-		493DF07C22609AB700F23887 /* Release */ = {
+		493DF09A2263644C00F23887 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -290,36 +278,36 @@
 			};
 			name = Release;
 		};
-		493DF07E22609AB700F23887 /* Debug */ = {
+		493DF09C2263644C00F23887 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 294QD2DU2P;
-				INFOPLIST_FILE = "$(SRCROOT)/SimonSaysGame/Resources/Info.plist";
+				INFOPLIST_FILE = ProgrammaticConstrains/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Rodrigo.com.SimonSaysGame;
+				PRODUCT_BUNDLE_IDENTIFIER = Rodrigo.com.ProgrammaticConstrains;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		493DF07F22609AB700F23887 /* Release */ = {
+		493DF09D2263644C00F23887 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 294QD2DU2P;
-				INFOPLIST_FILE = "$(SRCROOT)/SimonSaysGame/Resources/Info.plist";
+				INFOPLIST_FILE = ProgrammaticConstrains/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Rodrigo.com.SimonSaysGame;
+				PRODUCT_BUNDLE_IDENTIFIER = Rodrigo.com.ProgrammaticConstrains;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -329,25 +317,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		493DF06622609AB400F23887 /* Build configuration list for PBXProject "SimonSaysGame" */ = {
+		493DF0842263644B00F23887 /* Build configuration list for PBXProject "ProgrammaticConstrains" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				493DF07B22609AB700F23887 /* Debug */,
-				493DF07C22609AB700F23887 /* Release */,
+				493DF0992263644C00F23887 /* Debug */,
+				493DF09A2263644C00F23887 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		493DF07D22609AB700F23887 /* Build configuration list for PBXNativeTarget "SimonSaysGame" */ = {
+		493DF09B2263644C00F23887 /* Build configuration list for PBXNativeTarget "ProgrammaticConstrains" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				493DF07E22609AB700F23887 /* Debug */,
-				493DF07F22609AB700F23887 /* Release */,
+				493DF09C2263644C00F23887 /* Debug */,
+				493DF09D2263644C00F23887 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 493DF06322609AB400F23887 /* Project object */;
+	rootObject = 493DF0812263644B00F23887 /* Project object */;
 }
